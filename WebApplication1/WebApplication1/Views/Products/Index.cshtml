@@ -1,0 +1,40 @@
+﻿@model IEnumerable<WebApplication1.Models.Product>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h3>Products</h3>
+        <div class="d-flex justify-content-end mb-1">
+            <a asp-action="Create" asp-controller="Products" class="btn btn-primary btn-sm">Create</a>
+        </div>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Product Name</th>
+                    <th>Mfg Date</th>
+                    <th>Avaliable?</th>
+                    <th>Customer</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var p in Model)
+                {
+                    <tr>
+                        <td>@p.ProductName</td>
+                        <td>@p.MfgDate</td>
+                        <td>@p.Avaliable</td>
+                        <td>@p.Customer.CustomerName</td>
+                        <td>
+                            <a asp-action="Edit" asp-controller="Products" asp-route-id="@p.ProductId" class="btn btn-secondary btn-sm">Edit</a>
+                            <a asp-action="Delete" asp-controller="Products" asp-route-id="@p.ProductId" class="btn btn-danger btn-sm">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

@@ -1,0 +1,150 @@
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\SAZU\Desktop\Iquball Vai\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Emon GD\OneDrive\Desktop\Interview Ques\Practical Crud\Sazu vai\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll

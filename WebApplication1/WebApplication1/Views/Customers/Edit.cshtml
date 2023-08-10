@@ -1,0 +1,41 @@
+﻿@model WebApplication1.Models.Customer
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h3>Create new Customer</h3>
+        <form method="post" asp-action="Edit" asp-controller="Customers">
+            <input type="hidden" asp-for="CustomerId" />
+            <div class="fomr-group row mb-1">
+                <label asp-for="CustomerName" class="col-form-label col-2"></label>
+                <div class="col-4">
+                    <input type="text" asp-for="CustomerName" class="form-control" />
+                    <span asp-validation-for="CustomerName" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="fomr-group row mb-1">
+                <label asp-for="CustomerEmail" class="col-form-label col-2"></label>
+                <div class="col-4">
+                    <input type="email" asp-for="CustomerEmail" class="form-control" />
+                    <span asp-validation-for="CustomerEmail" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="fomr-group row mb-1">
+                <div class="col-4 offset-2">
+                    <button type="submit" class="btn btn-primary btn-sm">Update</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="/lib/jquery/dist/jquery.js"></script>
+    <script src="/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+}
+
